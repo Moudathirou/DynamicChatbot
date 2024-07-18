@@ -20,5 +20,5 @@ Ce projet est une application de chatbot qui explore les liens d'un site web à 
 1. Clonez le dépôt GitHub :
 
 ```bash
-git clone https://github.com/votre-utilisateur/chatbot-crawler-rag.git
-cd chatbot-crawler-rag
+https://github.com/Moudathirou/DynamicChatbot.git
+cd DynamicChatbot
